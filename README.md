@@ -2,7 +2,7 @@
 
 <h3 align="center">
   Welcome to Ayham Alahmad's profile
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="28">
+
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
