@@ -12,12 +12,6 @@
 
 
 
-
-### Connect with Me :
-
-<a href="https://linkedin.com/in/ayhamalahmad" target="_blank"><img src="https://img.shields.io/badge/-Ayham%20Alahmad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-- 📧 Email: ayhamalahmadcontact@gmail.com
-
   
 
 ### 🛠 &nbsp;Tech Stack
@@ -25,12 +19,23 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-
+![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![PHPStorm](https://img.shields.io/badge/-PHPStorm-05122A?style=flat&logo=phpstorm&logoColor=000000)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=00A86B)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite&logoColor=003B57)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764ABC)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
+![RESTful API](https://img.shields.io/badge/-RESTful%20API-05122A?style=flat&logo=api&logoColor=7D5AB6)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120)&nbsp;
+![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=cplusplus&logoColor=00599C)&nbsp;
+![.NET](https://img.shields.io/badge/-NET-05122A?style=flat&logo=.net&logoColor=512BD4)&nbsp;
 
 
 
